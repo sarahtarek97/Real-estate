@@ -158,3 +158,25 @@ nav ul li a:hover{
   right: 0;
 }
 /*      end search bar css Esraa Eid    */
+/* properties page css saga mohamed*/
+.prop{
+    float: left;
+    padding: 10px;
+    display: inline-block;
+    margin-top: 10px;
+    background-color: #f7f7f7;
+}
+.prop img{
+    width: 90%;
+    box-shadow: 5px 5px 8px rgba(136, 136, 136, 0.73);
+    border-radius: 2%;
+}
+.prop h1{
+    color:#ed1e24;
+    font-size: 25px;
+}
+.prop h4{
+    color:#88c040;
+    font-size: 20px;
+}
+/* END properties page css saga mohamed*/
