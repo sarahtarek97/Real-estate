@@ -77,6 +77,70 @@ nav ul li a:hover{
     font-weight: 100;
 }
         /*   END banner sarah tarek     */ 
+.lab h1{
+    text-align: center;
+    font-family: ubuntu condensed;
+    color: #ed1e24;
+    font-size: 30px;
+    font-weight: bold;
+}
+.lab h3{
+    text-align: center;
+    color:#1e1f20;
+    font-size: 25px;
+}
+.tilt {
+  -webkit-transition: all 0.5s ease;
+     -moz-transition: all 0.5s ease;
+       -o-transition: all 0.5s ease;
+      -ms-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+}
+ 
+.tilt:hover {
+  -webkit-transform: rotate(-10deg);
+     -moz-transform: rotate(-10deg);
+       -o-transform: rotate(-10deg);
+      -ms-transform: rotate(-10deg);
+          transform: rotate(-10deg);
+}
+.up{
+    float: left;
+    height: 350px;
+    width: 100%;
+    background-color:#1e1f20; 
+    color:#88c040;
+    text-align: center;
+    vertical-align: text-bottom;
+    padding: 0px;
+    margin: 20px;
+    border-radius: 2%;
+    box-shadow: 10px 5px 10px rgba(136, 136, 136, 0.73);
+}
+.up img{
+    width: 100%;
+    height: 85%;
+    border-top-left-radius: 2%;
+    border-top-right-radius: 2%;
+}
+.down{
+    float: left;
+    height: 350px;
+    width: 100%;
+    background-color:#1e1f20; 
+    color:#88c040;
+    text-align: center;
+    margin-top: 50px;
+    padding: 0px;
+     border-radius: 2%;
+    box-shadow: 10px 5px 10px rgba(136, 136, 136, 0.73);
+}
+.down img{
+    width: 100%;
+    height: 85%;
+    border-top-left-radius: 2%;
+    border-top-right-radius: 2%;
+}
     /*  CSS   follow us  Esraa shata */
 .foot{
     padding-top: 30px;
