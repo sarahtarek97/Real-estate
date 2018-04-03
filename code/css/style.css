@@ -20,3 +20,37 @@ body{
 .line2{
     background-color:#88c040;
 }
+        /*   navigation   Esraa shata     */ 
+.logo{
+    float: left; 
+}
+.logo img{
+    height: 77px;
+    width: 175px;
+}
+nav{
+    display: inline-block;
+    margin-left: 90px;
+    float: left;
+}
+nav ul{
+    text-align: center;
+    list-style: none;
+    display: inline-block;
+
+}
+nav ul li {
+    display: inline;
+    padding: 18px;
+    font-size: 26px;
+    font-family:ubuntu condensed;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #ed1e24;
+}
+nav ul li a:hover{
+    text-decoration: none;
+    color:#88c040;
+}
+    /* END  navigation   Esraa shata     */ 
