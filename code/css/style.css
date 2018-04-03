@@ -12,3 +12,11 @@ body{
 .clear{
     clear: both;
 }
+.line{
+    height: 30px;
+    background-color:#1e1f20;
+    width: 100%;
+}
+.line2{
+    background-color:#88c040;
+}
