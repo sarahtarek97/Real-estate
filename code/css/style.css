@@ -54,3 +54,21 @@ nav ul li a:hover{
     color:#88c040;
 }
     /* END  navigation   Esraa shata     */ 
+    /*  CSS   follow us  Esraa shata */
+.foot{
+    padding-top: 30px;
+    float: left;
+    color: #ed1e24;
+    font-size: 40px;
+    text-align: center;
+}
+
+.social{
+    float: left;
+    height: 150px;
+}
+.soc{
+    margin-top: 20px;
+}
+
+/*  END CSS  follow us  Esraa shata */
