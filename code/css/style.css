@@ -98,3 +98,63 @@ nav ul li a:hover{
 .ad{
     width: 100%;
 }
+/*  search bar css  Esraa eid */
+.search{
+    height: 200px;
+    padding: 15px;
+}
+.search h1{
+    text-align: center;
+    font-family: ubuntu condensed;
+    color: #ed1e24;
+    font-size: 30px;
+    font-weight: bold;
+}
+.input1{
+    display: block;
+    width: 100%;
+    padding: 0.5rem 0.75rem;
+    font-size: 1rem;
+    line-height: 1.25;
+    color: #495057;
+    background-color: #fff;
+    background-image: none;
+    background-clip: padding-box;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 0.25rem;
+    transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+}
+.inputbtn{
+    width: 100%;
+    background-color:#ed1e24;
+    border: none;
+    border-radius: 0.25rem;
+    text-align: center;
+    padding: 8 20;
+    
+}
+.inputbtn span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.inputbtn span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.inputbtn:hover span {
+  padding-right: 25px;
+}
+
+.inputbtn:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+/*      end search bar css Esraa Eid    */
